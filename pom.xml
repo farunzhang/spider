@@ -10,6 +10,16 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spider-core</module>
+        <module>spider-cache</module>
+        <module>spider-persistent</module>
+        <module>spider-workflow</module>
+        <module>spider-mr</module>
+        <module>spider-utils</module>
+        <module>spider-rpc</module>
+        <module>spider-streaming</module>
+        <module>spider-supervisor</module>
+        <module>spider-api</module>
+        <module>spider-management</module>
     </modules>
 
 

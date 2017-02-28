@@ -3,7 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D://work/spider/spider.iml" filepath="D://work/spider/spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-api/spider-api.iml" filepath="$PROJECT_DIR$/spider-api/spider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-cache/spider-cache.iml" filepath="$PROJECT_DIR$/spider-cache/spider-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/spider-core/spider-core.iml" filepath="$PROJECT_DIR$/spider-core/spider-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-management/spider-management.iml" filepath="$PROJECT_DIR$/spider-management/spider-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-mr/spider-mr.iml" filepath="$PROJECT_DIR$/spider-mr/spider-mr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-persistent/spider-persistent.iml" filepath="$PROJECT_DIR$/spider-persistent/spider-persistent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-rpc/spider-rpc.iml" filepath="$PROJECT_DIR$/spider-rpc/spider-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-streaming/spider-streaming.iml" filepath="$PROJECT_DIR$/spider-streaming/spider-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-supervisor/spider-supervisor.iml" filepath="$PROJECT_DIR$/spider-supervisor/spider-supervisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-utils/spider-utils.iml" filepath="$PROJECT_DIR$/spider-utils/spider-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spider-workflow/spider-workflow.iml" filepath="$PROJECT_DIR$/spider-workflow/spider-workflow.iml" />
     </modules>
   </component>
 </project>
